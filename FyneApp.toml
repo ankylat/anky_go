@@ -1,0 +1,8 @@
+Website = "https://anky.life"
+
+[Details]
+  Icon = "librarian.jpeg"
+  Name = "anky"
+  ID = "www.anky.life"
+  Version = "1.0.0"
+  Build = 3
